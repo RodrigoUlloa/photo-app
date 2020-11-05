@@ -21,3 +21,4 @@ Sample steps to use:
 5) There might be a "Yarn packages are out of date error", if so you can run `yarn install --check-files` as recommended in the message. Then try step 4) again.
 
 6) Run the rails server, preview in the browser and enjoy!
+# photo-app
